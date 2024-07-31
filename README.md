@@ -13,3 +13,10 @@ Hugging Face Transformers
 TensorFlow or PyTorch
 Additional libraries as specified in requirements.txt
 ```
+# Installation
+> Clone the repository:
+```
+git clone https://github.com/sumya24/Audio_Classification_with_Hugging_Face_Transformer
+.git
+cd sumya24
+```
