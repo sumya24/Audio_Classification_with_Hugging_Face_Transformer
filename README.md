@@ -31,54 +31,7 @@ jupyter notebook g55.ipynb
 ```
 > Run the cells sequentially to preprocess data, train the model, and evaluate its performance.
 
-Memory updated
-Great! Here’s an updated README file, incorporating details about the Wav2Vec2 audio classification project using Keras:
-
-Wav2Vec2 Audio Classification
-This repository contains a Jupyter Notebook for training and evaluating an audio classification model using the Wav2Vec2 architecture with Keras.
-
-Table of Contents
-Wav2Vec2 Audio Classification
-Table of Contents
-Introduction
-Requirements
-Installation
-Usage
-Notebook Overview
-Results
-Contributing
-License
-Acknowledgements
-Introduction
-This project aims to train an audio classification model using the Wav2Vec2 architecture from Hugging Face and Keras. The notebook demonstrates data preprocessing, model training, and evaluation.
-
-Requirements
-Python 3.7+
-Jupyter Notebook
-Hugging Face Transformers
-TensorFlow or PyTorch
-Additional libraries as specified in requirements.txt
-Installation
-Clone the repository:
-
-sh
-Copy code
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-Install the required packages:
-
-sh
-Copy code
-pip install -r requirements.txt
-Usage
-Open the Jupyter Notebook:
-
-sh
-Copy code
-jupyter notebook g55.ipynb
-Run the cells sequentially to preprocess data, train the model, and evaluate its performance.
-
 # Notebook Overview
-> Data Loading: Loading and preprocessing the audio dataset.
-> Model Training: Training the Wav2Vec2 model using Keras.
-> Evaluation: Evaluating the model's performance on the test set.
+### Data Loading: Loading and preprocessing the audio dataset.
+### Model Training: Training the Wav2Vec2 model using Keras.
+### Evaluation: Evaluating the model's performance on the test set.
