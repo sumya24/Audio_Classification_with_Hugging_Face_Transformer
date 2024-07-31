@@ -6,7 +6,7 @@ In the past decade, deep learning has led to significant performance gains on th
 
 In this notebook, we train the Wav2Vec 2.0 (base) model, built on the Hugging Face Transformers library, in an end-to-end fashion on the keyword spotting task and achieve state-of-the-art results on the Google Speech Commands Dataset.
 # Requirements
-Python 3.7+
+## Python 3.7+
 Jupyter Notebook
 Hugging Face Transformers
 TensorFlow or PyTorch
