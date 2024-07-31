@@ -38,6 +38,11 @@ jupyter notebook g55.ipynb
 
 # Results
 This project has successfully demonstrated the potential of leveraging advanced machine learning models, specifically Wav2Vec2, for audio classification tasks within the realm of educational technology and data science. By implementing this cutting-edge technology. The project achieved high accuracy in identifying spoken commands, demonstrating robust performance across various metrics like precision, recall, and F1-score. These results un-derscore the model’s effectiveness in enhancing audio analysis beyond traditional meth-ods. Future research may refine the model further and explore practical applications such as integration into voice-controlled devices, thereby expanding its utility across diverse industries reliant on accurate speech recognition solutions.
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
 
 # Dataset
 In this Project we used this dataset [Iemocap-full-release Dataset](https://www.kaggle.com/datasets/dejolilandry/iemocapfullrelease/).
+
+# Keras Code Link
+[Keras Code ](https://keras.io/examples/audio/wav2vec2_audiocls/).
