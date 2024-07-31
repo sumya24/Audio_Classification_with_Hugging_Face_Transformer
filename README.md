@@ -20,3 +20,12 @@ git clone https://github.com/sumya24/Audio_Classification_with_Hugging_Face_Tran
 .git
 cd sumya24
 ```
+> Install the required packages:
+```
+pip install -r requirements.txt
+```
+# Usage
+> Open the Jupyter Notebook:
+> ```
+jupyter notebook g55.ipynb
+```
