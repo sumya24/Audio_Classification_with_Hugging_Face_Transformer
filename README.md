@@ -41,7 +41,17 @@ This project has successfully demonstrated the potential of leveraging advanced 
 ![Edit button](images/result.png)
 
 # Contributing
+### Saiprasad Patil
+<ul>
+<li>Github: https://github.com/SaiprasadPatil</li>
+  <li>Email: <a href="mailto:Saiprasad6767@gmail.com">Saiprasad6767@gmail.com</a></li>
+</ul>
 
+### Ajay Magaonkar
+<ul>
+<li>Github: https://github.com/adm2425</li>
+  <li>Email: <a href="mailto:ajaymangaonkar8@gmail.com">28mahakjain2000@gmail.com</a></li>
+</ul>
 # Dataset
 In this Project we used this dataset [Iemocap-full-release Dataset](https://www.kaggle.com/datasets/dejolilandry/iemocapfullrelease/).
 
